@@ -3,7 +3,6 @@ import {
     faFacebook,
     faFacebookF,
     faLinkedin,
-    faGithub,
   } from '@fortawesome/free-brands-svg-icons';
   import {
     faGlobe,
@@ -16,7 +15,6 @@ import {
     faLinkedin,
     faFacebook,
     faFacebookF,
-    faGithub,
     faGlobe,
     faEnvelope,
     faCoffee,
