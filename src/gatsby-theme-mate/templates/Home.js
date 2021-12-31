@@ -9,14 +9,13 @@ import Footer from 'gatsby-theme-mate/src/components/Footer';
 import Landing from 'gatsby-theme-mate/src/sections/Landing';
 import About from 'gatsby-theme-mate/src/sections/About';
 import Projects from 'gatsby-theme-mate/src/sections/Projects';
-import Writing from 'gatsby-theme-mate/src/sections/Writing';
 
 const Home = () => (
   <Layout>
     <Header />
     <Landing />
-    <Projects />
     <About />
+    <Projects />
     <Footer />
   </Layout>
 );
